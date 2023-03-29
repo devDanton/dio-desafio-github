@@ -1,2 +1,2 @@
 # dio-desafio-github
-* Repositório criado com o intuíto de conlcuir o primeiro projeto da dio.
+* Repositório criado com o intuito de concluir o primeiro projeto da dio.
